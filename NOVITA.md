@@ -1,5 +1,13 @@
 # Novità di Serialo
 
+## 1.5.0 — 1 novembre 2026
+
+- Sincronizzazione più solida tra telefono e orologio: all'apertura ognuno recupera quello che l'altro ha mandato mentre era chiuso, anche serie e allenamenti fatti prima di installare l'app.
+- Gli stessi passi su telefono e orologio: il telefono riceve quelli misurati dall'orologio, anche senza Fitbit.
+- In Oggi vedi se l'orologio è collegato e quando è stata l'ultima sincronizzazione; "Sincronizza ora" rimanda tutto subito.
+- Allenamento in diretta: mentre ti alleni con l'orologio, il telefono mostra esercizio, serie e recupero in corso.
+- Sull'orologio vedi se il telefono è collegato.
+
 ## 1.4.0 — 1 novembre 2026
 
 - Nuova grafica: colori di Serialo (arancio energia su blu notte, anche in tema chiaro), angoli morbidi, scritte più decise.
