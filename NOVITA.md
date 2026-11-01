@@ -1,5 +1,15 @@
 # Novità di Serialo
 
+## 1.4.0 — 1 novembre 2026
+
+- Nuova grafica: colori di Serialo (arancio energia su blu notte, anche in tema chiaro), angoli morbidi, scritte più decise.
+- Oggi: anello dei passi con km e calorie, grande riquadro del prossimo allenamento con i muscoli coinvolti e il pulsante Inizia, ultimo allenamento in evidenza. Le autorizzazioni compaiono solo se ne manca qualcuna.
+- Nuova scheda Profilo: peso e altezza, promemoria, palestra, backup, Novità e aggiornamenti.
+- Schede: ogni giorno in un riquadro, con un colore per ogni gruppo muscolare.
+- Progressi: i numeri chiave in alto (allenamenti, serie, tonnellate sollevate), grafici con area sfumata, barre colorate per muscolo, record e diario più leggibili.
+- Allenamento sul telefono: avanzamento della seduta, pallini delle serie, anello del recupero, pulsanti grandi.
+- Orologio: colori di Serialo e anello del recupero intorno allo schermo.
+
 ## 1.3.0 — 1 novembre 2026
 
 - Telefono e orologio ora funzionano anche da soli: puoi allenarti con il solo telefono (Oggi › Inizia sul telefono, o Inizia su un giorno in Schede), con timer, vibrazione e voce. Se li usi insieme, serie e allenamenti passano da uno all'altro e i carichi consigliati sono gli stessi.
