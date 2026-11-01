@@ -1,0 +1,19 @@
+name: Suggerimento
+description: Un'idea o un problema inviato dall'app Serialo
+title: "Suggerimento: "
+labels: ["suggerimento"]
+body:
+  - type: markdown
+    attributes:
+      value: "Questa pagina è pubblica: non scrivere dati di salute, peso, posizione o altri dati personali."
+  - type: textarea
+    id: testo
+    attributes:
+      label: Il tuo suggerimento
+      description: Descrivi l'idea o il problema (telefono o orologio, cosa stavi facendo).
+    validations:
+      required: true
+  - type: input
+    id: dispositivo
+    attributes:
+      label: Dispositivo e versione dell'app
