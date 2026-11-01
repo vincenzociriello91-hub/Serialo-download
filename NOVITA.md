@@ -1,5 +1,9 @@
 # Novità di Serialo
 
+## 1.6.0 — 1 novembre 2026
+
+- Orologio: pulsanti "Indietro", "Salta", "Auto" ed "Esci" a pillola, con il testo leggibile su una riga; record più compatti.
+
 ## 1.5.1 — 1 novembre 2026
 
 - Rapporti tecnici attivi su telefono e orologio: se hai dato il consenso, crash ed errori di sincronizzazione arrivano cifrati e senza dati personali, così si correggono prima.
