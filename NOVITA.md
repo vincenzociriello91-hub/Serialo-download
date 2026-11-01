@@ -1,5 +1,9 @@
 # Novità di Serialo
 
+## 1.5.1 — 1 novembre 2026
+
+- Rapporti tecnici attivi su telefono e orologio: se hai dato il consenso, crash ed errori di sincronizzazione arrivano cifrati e senza dati personali, così si correggono prima.
+
 ## 1.5.0 — 1 novembre 2026
 
 - Sincronizzazione più solida tra telefono e orologio: all'apertura ognuno recupera quello che l'altro ha mandato mentre era chiuso, anche serie e allenamenti fatti prima di installare l'app.
